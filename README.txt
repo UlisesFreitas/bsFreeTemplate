@@ -1,14 +1,10 @@
-bsFreeTemplate
-==============
-
-bootstrap 2.3.2 free template
 /**********************************************************************************
 
 	Project Name: Design&Solutions
 	Project Description: Design & Solutions V1.0 Template
 	File Name: Design&Solutions
 	Author: Ulises Freitas
-	Author URI: http://ulisesfreitas.com/templates/dd1/index.html
+	Author URI: http://dreamlandesignersgroup.com
 	Version: 1.0.0
 	
 **********************************************************************************/
